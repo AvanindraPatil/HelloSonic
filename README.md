@@ -4,7 +4,7 @@
 house with his Sonic Adventure 2 model, motions, speed, moves, sounds and voice lines. With Dr. Eggman on, he takes the
 Neighbor's place: his SA2 model and voice, homing missiles, and a hover pod he rides once Sonic has knocked him down.
 
-<!-- screenshot here -->
+<img width="2560" height="1440" alt="Screenshot (3006)" src="https://github.com/user-attachments/assets/32e69eba-a2a2-4d48-a35e-24423d835e3b" />
 
 > Unofficial fan project, not affiliated with SEGA, tinyBuild or Dynamic Pixels. The download contains **no SEGA
 > files**: the installer builds Sonic and Eggman from **your own copy of Sonic Adventure 2**, on your PC.
